@@ -69,6 +69,11 @@ hr {
   margin-top: 50px;
 }
 
+.container {
+  position: relative;
+  left: 63px;
+}
+
 .contact-me {
   padding: 20px 0 50px;
   background-color: #66bfbf;
