@@ -74,6 +74,10 @@ hr {
   left: 63px;
 }
 
+.card {
+  height: 190px;
+}
+
 .contact-me {
   padding: 20px 0 50px;
   background-color: #66bfbf;
